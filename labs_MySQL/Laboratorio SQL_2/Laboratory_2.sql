@@ -19,3 +19,10 @@ select distinct last_name  from staff
 SELECT COUNT(last_name)  FROM staff;
 -- y esto da el numero de empleados al darnos el numero de apellidos
 select count(rental_id) from rental
+-- esto da el numero de films
+select distinct(length) from film
+order by length desc
+-- Esto te da los distincts de la longitud en order descendente que son los valores mas altos
+select first_name,last_name from actor
+where first_name = 'Scarlett'
+-- Esto te devuelve los apellidados Scarlett, ninguno Johannson.
