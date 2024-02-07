@@ -29,3 +29,14 @@ se soluciono y llama al store_id 1 y 2
 
 */   
 
+-- Determine the average running time of films for each category.
+select avg(f.length),c.name from film as f
+
+left join film_category as fc
+on f.film_id = fc.film_id
+
+left join category as c
+on  fc.category_id = c.category_id
+
+group by c.name
+
