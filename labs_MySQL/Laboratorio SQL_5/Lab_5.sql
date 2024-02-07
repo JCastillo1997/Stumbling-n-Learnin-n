@@ -20,4 +20,16 @@ left join film_actor as fa
 on a.actor_id = fa.actor_id
 left join film as f
 on fa.film_id = f.film_id
-where f.title ='Hunchback Impossible'
+where f.title ='Alone Trip'
+
+-- Con subqueries, agradecimientos a Diana.
+
+select first_name, last_name 
+from (select * from film  where film.title ='Alone Trip') as pe
+
+left join film_actor as fa
+on  pe.film_id = fa.film_id
+
+left join actor as a
+on fa.actor_id = a.actor_id
+
