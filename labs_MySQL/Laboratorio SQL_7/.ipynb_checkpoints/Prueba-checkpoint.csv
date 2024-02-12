@@ -1,0 +1,585 @@
+ID,Provider_id,Offer_name,Price,Product_type
+3,1,.Fibra 50 MB,32.0 €,A
+4,1,.ADSL 30 MB,35.3 €,B
+5,1,.TV Esencial,12.0 €,B
+6,1,.TV Extra,18.0 €,C
+7,1,.TV Total,24.0 €,C
+10,1,.3G,45.0 €,C
+11,1,.Fijo en tu Casa,15.0 €,A
+13,1,.Mini S,14.0 €,B
+14,1,.Smart S,20.0 €,B
+16,1,.Red XL,52.0 €,C
+23,1,.Tv esencial,12.0 €,C
+26,1,.Red M,28.0 €,C
+27,1,.TV Extra,18.0 €,A
+28,1,.TV Total,24.0 €,B
+29,1,.Mini Voz,8.0 €,B
+30,1,.Mini S,14.0 €,C
+31,1,Smart S,20.0 €,C
+32,1,...Red M,28.0 €,C
+34,1,.Red XL,52.0 €,A
+35,1,.Red L,36.0 €,B
+98,1,.ADSL + TV,35.3 €,B
+147,1,.ADSL + TV,35.3 €,C
+148,1,.Fijo en tu Casa,15.0 €,C
+170,1,.3G,45.0 €,C
+179,1,.Fibra 30MB,33.1 €,A
+341,1,FIJO VODAFONE,18.0 €,B
+342,1,Vodafone Bares,150.0 €,B
+409,1,..Red L,50.0 €,C
+410,1,..Red M,40.0 €,C
+411,1,.Red S,30.0 €,C
+413,1,HORECA,193.6 €,A
+5258,1,.FIBRA 120 MB + Movil M + TV  Total,55.2 €,B
+5311,1,FIBRA 300MB + Movil L,94.0 €,B
+5313,1,.FIBRA 300MB + Movil L + TV Extra,73.2 €,C
+5314,1,.120 MB + TV Total,50.1 €,C
+5315,1,.FIBRA 300 MB + Movil S + TV  Extra,67.6 €,C
+5316,1,.FIBRA 300 MB + Movil XL + TV  Extra,102.8 €,A
+5317,1, Adsl + Movil Móvil Smart S ,58.0 €,B
+5321,1,Adsl + Movil Móvil M,69.0 €,B
+5322,1,Adsl + Movil Móvil L,82.0 €,C
+5323,1,.3G + Movil Mini S,42.2 €,C
+5324,1,.Adsl + Movil Mini S + Tv esencial,36.0 €,C
+5325,1,.Adsl + Movil Móvil Mini S ,36.0 €,A
+5326,1,.Adsl + Movil Mini S + Tv Extra,42.0 €,B
+5327,1,.Adsl + Movil Móvil XL,75.2 €,B
+5328,1,.Adsl + Movil M + Tv esencial,60.8 €,C
+5329,1,.Adsl + Movil M + Tv Extra,66.8 €,C
+5330,1,.Adsl + Movil S + Tv esencial,52.0 €,C
+5331,1,.Adsl + Movil XL + Tv esencial,75.2 €,A
+5332,1,FIBRA 120 MB + Movil M,77.0 €,B
+5333,1,.Adsl + Movil L + Tv esencial,69.6 €,B
+5334,1,.Adsl + Movil L + Tv Total,63.6 €,C
+5335,1,.Adsl + Movil Mini S + Tv Total,60.0 €,C
+5336,1,.Adsl + Movil S + Tv Total,40.0 €,C
+5337,1,.Adsl + Movil XL + Tv Extra,75.2 €,A
+5339,1,.Adsl + Movil M + Tv Total,48.8 €,B
+5341,1,.3G + Movil L,63.0 €,B
+5342,1,.3G + Movil M,54.0 €,C
+5343,1,.3G + Movil XL,81.0 €,C
+5344,1,.3G + Movil S,45.0 €,C
+5345,1,.Adsl + Movil L + Tv Extra,63.6 €,A
+5347,1,.Adsl + Movil XL + Tv Total,75.2 €,B
+5348,1,.FIBRA 120 MB + Movil L + TV  Extra,70.0 €,B
+5349,1,.FIBRA 300MB + Movil L + TV Esencial,73.2 €,C
+5350,1,.FIBRA 300MB + Movil L + TV Total,67.2 €,C
+5351,1,.FIBRA 300 MB + Movil XL ,84.8 €,C
+5352,1,.FIBRA 300 MB + Movil XL + TV  Esencial,84.8 €,A
+5353,1,.Tv bares + adsl / fibra,134.3 €,B
+5354,1,.FIBRA 50 MB + Movil XL + TV  Esencial,75.2 €,B
+5355,1,.Adsl + Movil S + Tv Extra,58.0 €,C
+5356,1,.300 MB + TV Esencial,66.1 €,C
+5357,1,.FIBRA 120MB + Movil XL + TV  Extra,87.6 €,C
+5358,1,Copia de FIBRA 120 MB + Movil M,77.0 €,A
+5360,1,.120 MB + TV Esencial,62.1 €,B
+5361,1,.50 MB + TV Esencial,53.1 €,B
+5375,1,.50 MB + TV Extra,59.1 €,C
+5379,1,.300 MB + TV Extra,72.1 €,C
+5382,1,.120 MB + TV Extra,68.1 €,C
+5384,1,.FIBRA 300 MB + Movil  S + TV  Esencial,61.6 €,A
+5385,1,.FIBRA INDIRECTA 30 + Movil M,61.0 €,B
+5386,1,FIBRA 50 MB + movil L,82.0 €,B
+5387,1,.300 MB + TV Total,54.1 €,C
+5388,1,.50 MB + TV Total,41.1 €,C
+5389,1,.FIBRA 50 MB + Movil XL + TV  Extra,81.2 €,C
+5390,1,.Tv bares + adsl / fibra,134.1 €,A
+5391,1,.Tv bares + adsl / fibra + Red M,134.3 €,B
+5393,1,.FIBRA 50 MB + Movil M + TV  Extra,60.8 €,B
+5394,1,.FIBRA 120 MB + Movil M + TV  Esencial,55.2 €,C
+5395,1,.FIBRA 300 MB + Movil M + TV  Esencial,64.4 €,C
+5396,1,.FIBRA 120 MB + Movil L + TV  Esencial,64.0 €,C
+5397,1,.FIBRA 120MB + Movil XL + TV  Esencial,81.6 €,A
+5398,1,.FIBRA 120 MB + Movil S + TV  Esencial,58.4 €,B
+5399,1,.FIBRA 50 MB + movil L + TV Extra,63.6 €,B
+5400,1,.FIBRA 50 MB + Movil M + TV  Esencial,48.8 €,C
+5401,1,.FIBRA 50 MB + Movil M + TV  Total,48.8 €,C
+5402,1,.FIBRA 50 MB + Movil S + TV  Esencial,52.0 €,C
+5403,1,.FIBRA 50 MB + Movil S + TV  Extra,58.0 €,A
+5404,1,.FIBRA 50 MB + Movil S + TV  Total,40.0 €,B
+5405,1,.FIBRA 50 MB + movil L + TV Total,57.6 €,B
+5406,1,.FIBRA 120 MB + Movil M + TV  Total,55.2 €,C
+5407,1,.FIBRA 120 MB + Movil M + TV  Extra,67.2 €,C
+5408,1,.FIBRA 300 MB + Movil S + TV  Total,49.6 €,C
+5409,1,.FIBRA 120 MB + Movil S + TV  Total,46.4 €,A
+5410,1,.FIBRA 50 MB + Movil XL + TV  Total,75.2 €,B
+5411,1,.FIBRA 120 MB + Movil S + TV  Extra,46.4 €,B
+5413,1,.FIBRA 300 MB + Movil M + TV  Extra,70.4 €,C
+5414,1,.FIBRA 120 MB + Movil L + TV  Total,64.0 €,C
+5415,1,.FIBRA 300 MB + Movil M + TV  Total,58.4 €,C
+5416,1,FIBRA 120MB + Movil XL + TV  Total,81.6 €,A
+5419,1,.FIBRA 50 MB + Movil XL,75.2 €,B
+5420,1,FIBRA 50 MB + Movil M,69.0 €,B
+5421,1,FIBRA 120 MB + Movil L,90.0 €,C
+5422,1,FIBRA 50 MB + Movil S,58.0 €,C
+5423,1,FIBRA 120 MB + Movil S,66.0 €,C
+5424,1,.FIBRA 300 MB + Movil XL + TV  Total,84.8 €,A
+5425,1,.FIBRA 50 MB + movil L + Tv Esencial,57.6 €,B
+5432,1,FIBRA 300 MB + Movil M,81.0 €,B
+5433,1,FIBRA 300 MB + Movil  S,70.0 €,C
+5434,1,.FIBRA 120MB + Movil XL,81.6 €,C
+5454,1,.FIBRA INDIRECTA 30 + Movil L,72.0 €,C
+5455,1,.FIBRA INDIRECTA 30 + Movil M,61.0 €,A
+5456,1,.FIBRA INDIRECTA 30 + Movil S,50.0 €,B
+5497,1,Vodafone One ilimitada,64.0 €,B
+5510,1,Vodafone One ilimitada Súper,85.0 €,C
+5511,1,Vodafone One ilimitada Total,100.0 €,C
+5512,1,Vodafone One Mini,48.0 €,C
+5513,1,Vodafone One Extra,58.0 €,A
+5514,1,Tarifa Móvil Ilimitada,41.0 €,B
+5515,1,Tarifa Móvil Ilimitada Súper,46.0 €,B
+5516,1,Tarifa Móvil Ilimitada Total,50.0 €,C
+5517,1,Tarifa Móvil Extra,30.0 €,C
+5518,1,Tarifa Móvil Mini,30.0 €,C
+5519,1,Fibra 100Mbps,31.0 €,A
+5520,1,Fibra 600Mbps,43.0 €,B
+5521,1,Fibra 1Gbps,56.0 €,B
+5522,1,Solución profesional,8.0 €,C
+5523,1,IP FIJA,18.2 €,C
+5524,1,WIFI EN TU NEGOCIO	,7.0 €,C
+5525,1,SEGURIDAD DIGITAL	,10.0 €,A
+5526,1,TV EN TU NEGOCIO,6.0 €,B
+5530,1,+ WIFI EN TU NEGOCIO	,7.0 €,B
+36,2,Ballena,34.7 €,C
+37,2,Delfin,26.4 €,C
+38,2,Tucan,22.0 €,C
+39,2,Colibri,12.0 €,A
+43,2,Adsl 20MB,33.1 €,B
+44,2,ADSL Cobertura Indirecta,49.6 €,B
+45,2,Fibra 300Mb,45.1 €,C
+47,2,Mi Fijo,12.1 €,C
+48,2,INTERNET 4G EN CASA,28.9 €,C
+81,2,ADSL Love Sin Límites,50.4 €,A
+82,2,ADSL Love Esencial,40.5 €,B
+85,2,Fibra 300Mb Love Sin Límites,50.4 €,B
+86,2,Fibra 50Mb Love Sin Límites,50.4 €,C
+87,2,Fibra NEBA 30Mb Indirecto Love Sin Límites,52.9 €,C
+88,2,Fibra 300Mb Love Esencial,40.5 €,C
+89,2,Fibra 50Mb Love Esencial,40.5 €,A
+92,2,ADSL Love Familia Sin Límites,55.3 €,B
+93,2,Fibra 50MB Love Familia Sin Límites,55.3 €,B
+94,2,Fibra 300MB Love Familia Sin Límites,55.3 €,C
+172,2,Fibra 50Mb,33.1 €,C
+173,2,Fibra 30Mb Neba Love Familia Sin Límites,72.7 €,C
+211,2,ADSL Love Familia Esencial,55.3 €,A
+212,2,Fibra 50Mb Love Familia Esencial,55.3 €,B
+213,2,Fibra 300Mb Love Familia Esencial,55.3 €,B
+214,2,ADSL Love Esencial  + TV,40.5 €,C
+215,2,Fibra 50Mb Love Esencial  + TV ,40.5 €,C
+216,2,Fibra 300Mb Love Esencial  + TV ,40.5 €,C
+217,2,ADSL Love Sin Límites  + TV ,50.4 €,A
+218,2,Fibra 50Mb Love Sin Límites  + TV ,50.4 €,B
+219,2,Fibra 300Mb Love Sin Límites  + TV ,50.4 €,B
+220,2,ADSL Famila Love Esencial  + TV ,55.3 €,C
+221,2,Fibra 50Mb Familia Love Esencial  + TV ,40.5 €,C
+222,2,Fibra 300Mb Familia Love Esencial  + TV ,40.5 €,C
+223,2,ADSL Love Familia Sin Límites  + TV ,55.3 €,A
+224,2,Fibra 50Mb Love Familia Sin Límites  + TV ,55.3 €,B
+225,2,Fibra 300Mb Love Familia Sin Límites + TV ,55.3 €,B
+226,2,Ardilla,9.0 €,C
+227,2,Ballena Play,22.0 €,C
+228,2,Fibra 50Mb + TV,33.1 €,C
+229,2,Fibra 300Mb + TV,45.1 €,A
+230,2,Adsl 20MB +  TV,33.1 €,B
+243,2,Copia de Adsl 20MB +  TV,33.1 €,B
+57,3,ADSL BASE Max velocidad DUO SIN VALOR,32.3 €,C
+58,3,ADSL BASE Max velocidad DUO CON VALOR,32.3 €,C
+59,3,FIBRA BASE 300 MB,64.4 €,C
+60,3,FIBRA BASE 30MB DUO CON VALOR,32.3 €,A
+61,3,FIBRA BASE 30MB DUO SIN VALOR,32.3 €,B
+62,3,FIBRA BASE 300MB DUO,44.3 €,B
+64,3,VIVE 13,13.0 €,C
+73,3,VIVE 45,45.0 €,C
+74,3,VIVE 34,34.0 €,C
+76,3,VIVE 26,26.0 €,A
+78,3,Paquete básico Tv (Trio),20.0 €,B
+5309,3,Trio Adsl Max velocidad sin valor,52.3 €,B
+5310,3,Trio Fibra 300MB con valor,52.3 €,C
+5312,3,Trio Adsl Max velocidad con valor,52.3 €,C
+5338,3,Trio Fibra 30MB sin valor ,52.3 €,C
+5359,3,Trio Fibra 30MB con valor,52.3 €,A
+5363,3,Fusión Adsl 30MB,68.0 €,B
+5364,3,Fusión Fibra 30MB,68.0 €,B
+5365,3,Fusión Fibra 300MB,80.0 €,C
+5366,3,Fusion Contigo ADSL,50.0 €,C
+5367,3,Fusion Contigo Fibra 30,50.0 €,C
+5368,3,Fusión Fibra Contigo 300MB,62.0 €,A
+100,4,ADSL 12MB,40.3 €,B
+102,4,ADSL 12MB (nivel 2),40.3 €,B
+104,4,ADSL MAX VELOCIDAD (nivel 2),45.1 €,C
+105,4,ADSL MAX VEL Hasta 30 Mb,45.1 €,C
+110,4,ADSL Max Vel + Línea 100Min/500Mb,45.1 €,C
+111,4,ADSL Max Vel + Línea 200Min/2Gb,45.1 €,A
+112,4,"ADSL Max Vel + Línea Ilim/1,5Gb",57.2 €,B
+113,4,ADSL Max Vel + Línea Ilim/3Gb,57.2 €,B
+114,4,ADSL Max Vel + Línea 100Min/500Mb (NIVEL 2),45.1 €,C
+115,4,"ADSL Max Vel + Línea Ilim/1,5Gb (NIVEL 2)",57.2 €,C
+116,4,ADSL Max Vel + Línea 200Min/2Gb (NIVEL 2),45.1 €,C
+117,4,ADSL Max Vel + Línea 100Min/5Gb (NIVEL 2),57.2 €,A
+137,4,FIBRA 20 MB,40.3 €,B
+138,4,FTTH 200 MB,57.2 €,B
+139,4,FTTH 50 MB,45.1 €,C
+140,4,FIBRA Neba 30 MB,45.1 €,C
+141,4,PREFIBRA Máxima Velocidad,40.3 €,C
+142,4,"Fibra 200Mb + Línea Ilim/1,5Gb",63.3 €,A
+143,4,Fibra 50Mb + Línea 100Min/500Mb,45.1 €,B
+144,4,Fibra 50Mb + Línea Ilim/3Gb,57.2 €,B
+145,4,Fibra 50Mb + Línea 200Min/2Gb,45.1 €,C
+151,4,ADSL Max Vel + Línea Ilim/3Gb (NIVEL 2),57.2 €,C
+155,4,ADSL + TV (nivel 2),40.3 €,C
+168,4,ADSL 10 MB INDIRECTO,45.1 €,A
+181,4,ADSL 10 MB INDIRECTO +  Línea 100Min/500Mb,45.1 €,B
+185,4,"Móvil AHORRAR 1,5 GB + 150 min",13.0 €,B
+186,4,"Fibra 50Mb + Línea Ilim/1,5Gb",57.2 €,C
+187,4,"Fibra 50Mb + Línea Ilim/1,5Gb + TV",57.2 €,C
+188,4,"Fibra 200Mb + Línea Ilim/1,5Gb + TV",63.3 €,C
+189,4,ADSL Max Vel + Línea 100Min/500Mb + TV,45.1 €,A
+190,4,Fibra 50Mb + Línea 100Min/500Mb + TV,45.1 €,B
+191,4,Fibra 200Mb + Línea 100Min/500Mb,57.2 €,B
+192,4,Fibra 200Mb + Línea 100Min/500Mb + TV,57.2 €,C
+193,4,ADSL Max Vel + Línea 200Min/2Gb + TV,45.1 €,C
+194,4,Fibra 200Mb + Línea 200Min/2Gb,57.2 €,C
+195,4,ADSL Max Vel + Línea 100Min/5Gb,57.2 €,A
+196,4,Fibra 50Mb + Línea 100Min/5Gb,57.2 €,B
+197,4,Fibra 200Mb + Línea 100Min/5Gb,63.3 €,B
+198,4,Fibra 50Mb + Línea 200Min/2Gb + TV,45.1 €,C
+199,4,Fibra 200Mb + Línea 200Min/2Gb + TV,57.2 €,C
+200,4,ADSL Max Vel + Línea 100Min/5Gb + TV,57.2 €,C
+201,4,Fibra 50Mb + Línea 100Min/5Gb + TV,57.2 €,A
+202,4,Fibra 200Mb + Línea 100Min/5Gb + TV,63.3 €,B
+203,4,ADSL Max Vel + Línea Ilim/3Gb + TV,57.2 €,B
+204,4,Fibra 50Mb + Línea Ilim/3Gb + TV,57.2 €,C
+205,4,Fibra 200Mb + Línea Ilim/3Gb,63.3 €,C
+206,4,Fibra 200Mb + Línea Ilim/3Gb + TV,63.3 €,C
+207,4,"ADSL Max Vel + Línea Ilim/1,5Gb + TV",57.2 €,A
+208,4,Móvil TODO 7GB + Minutos ilimitados,27.0 €,B
+209,4,"Móvil HABLAR 2,5 GB + Minutos ilimitados",22.0 €,B
+210,4,Móvil NAVEGAR 5 GB + 100 min,19.0 €,C
+231,4,"ADSL 10 MB INDIRECTO + Línea Ilim/1,5Gb",57.2 €,C
+232,4,"ADSL 10 MB INDIRECTO + Línea 200Min/1,5Gb",45.1 €,C
+233,4,ADSL 10 MB INDIRECTO + Línea Ilim/3Gb,57.2 €,A
+234,4,ADSL 10 MB INDIRECTO + Línea 100Min/5Gb,57.2 €,B
+245,4,Fibra 300Mb + Línea Ilim/3Gb,65.7 €,B
+118,5,Fibra 300Mb,45.0 €,C
+119,5,Fibra 50Mb,33.0 €,C
+120,5,ADSL,30.0 €,C
+121,5,Fibra 300Mb + Movil Ilim/3GB,49.9 €,A
+122,5,Fibra 300Mb + Movil Ilim/5GB,51.9 €,B
+123,5,Fibra 300Mb + Movil Ilim/8GB,54.9 €,B
+124,5,Fibra 50Mb + Movil Ilim/3GB,39.9 €,C
+125,5,Fibra 50Mb + Movil Ilim/5GB,41.9 €,C
+126,5,Fibra 50Mb + Movil Ilim/8GB,44.9 €,C
+127,5,ADSL + Movil Ilim/3GB,39.9 €,A
+128,5,ADSL + Movil Ilim/5GB,41.9 €,B
+129,5,ADSL + Movil Ilim/20GB,44.9 €,B
+130,5,.ADSL + Movil 0 Min / 500Mb,32.0 €,C
+131,5,.Fibra 300Mb + Movil 0 Min / 500Mb,42.0 €,C
+132,5,.Fibra 50Mb + Movil 0 Min / 500Mb,32.0 €,C
+133,5,2 GB Ilimitado,16.9 €,A
+134,5,4 GB Ilimitado,16.9 €,B
+135,5,8 GB Ilimitado,19.9 €,B
+136,5,Tarifa Cero,19.9 €,C
+158,5,tarifa Cero 100 min / X GB,9.0 €,C
+166,5,Tarifa Cero 0cnt min / 1GB,5.0 €,C
+169,5,Tarifa Cero 0cnt min / 500mb,5.0 €,A
+317,5,Fibra 50Mb + Movil Ilim/12GB,48.9 €,B
+319,5,ADSL + Movil Ilim/12GB,48.9 €,B
+321,5,Fibra 300Mb + Movil Ilim/12GB,58.9 €,C
+322,5,3 GB Ilimitado,9.9 €,C
+343,5,Fibra 300Mb + Movil Ilim/2GB,36.9 €,C
+344,5, Fibra 50Mb + Movil Ilim/2GB,36.9 €,A
+345,5,ADSL + Movil Ilim/2GB,36.9 €,B
+387,5,Fibra 600Mb,45.0 €,B
+388,5,Fibra 100Mb + Movil Ilim/20GB ANTIGUO,48.9 €,C
+389,5,Fibra 600Mb + Movil Ilim/20GB,59.9 €,C
+390,5,Fibra 100Mb + Movil Ilim/6GB ANTIGUO,44.9 €,C
+392,5,Fibra 600Mb + Movil Ilim/3GB,49.9 €,A
+393,5,Fibra 600Mb + Movil Ilim/6GB,53.9 €,B
+395,5,Fibra 100Mb + Movil Ilim/3GB ANTIGUO,48.9 €,B
+396,5,Fibra 100Mb + Movil Ilim/2GB ANTIGUO,36.9 €,C
+397,5,ADSL + Movil Ilim/6GB,43.9 €,C
+398,5,Fibra 100Mb - Antiguo,30.0 €,C
+412,5,Fibra 600Mb + Movil Ilim/2GB,47.9 €,A
+417,5,6 GB Ilimitado,19.9 €,B
+418,5,19 GB Ilimitado,19.9 €,B
+435,5,ADSL MasMovil,30.0 €,C
+436,5,Fibra 100Mb MasMovil,30.0 €,C
+437,5,Fibra 600Mb MasMovil,45.0 €,C
+438,5,ADSL + Movil Ilim / 3GB,36.9 €,A
+439,5,ADSL + Movil Ilim / 6GB,43.9 €,B
+440,5,ADSL + Movil Ilim / 19GB,44.9 €,B
+441,5,Fibra 100Mb + Movil Ilim / 3GB,36.9 €,C
+442,5,Fibra 100Mb + Movil Ilim / 6GB,43.9 €,C
+443,5,Fibra 100Mb + Movil Ilim / 19 GB,44.9 €,C
+444,5,Fibra 600Mb + Movil Ilim / 3GB,46.9 €,A
+445,5,Fibra 600Mb + Movil Ilim / 6GB,53.9 €,B
+446,5,Fibra 600Mb + Movil Ilim / 19GB,54.9 €,B
+5158,5,Fibra 100Mb + Movil Ilim / 2GB,37.9 €,C
+5159,5,ADSL + Movil Ilim / 2GB,37.9 €,C
+5160,5,Fibra 600Mb + Movil Ilim / 2GB,47.9 €,C
+5457,5,Fibra NEBA 600Mb + Movil Ilim / 19GB,54.9 €,A
+5458,5,Fibra NEBA 600Mb + Movil Ilim / 6GB,53.9 €,B
+5461,5,Copia de Fibra 600Mb + Movil Ilim / 3GB,49.9 €,B
+5463,5,Fibra NEBA 600Mb + Movil Ilim / 3GB,46.9 €,C
+5464,5,Fibra NEBA 600Mb + Movil Ilim / 2GB,47.9 €,C
+5500,5,10 GB Ilimitado,14.9 €,C
+5501,5,ADSL + Movil Ilim / 10GB,39.9 €,A
+5502,5,Fibra 100Mb + Movil Ilim / 10GB,39.9 €,B
+5503,5,Fibra 600Mb + Movil Ilim / 10GB,49.9 €,B
+5504,5,Fibra NEBA 600Mb + Movil Ilim / 10GB,49.9 €,C
+5527,5,Fibra NEBA 600Mb MasMovil,45.0 €,C
+5529,5,Mas FIJO,12.9 €,C
+5630,5,Fibra 100Mb + Movil Ilim 20 GB MAS X MENOS,44.9 €,A
+5632,5,5 GB Ilimitado,9.9 €,B
+157,6,Tarifas Lowi sin minutos ilimitados,6.0 €,B
+257,6,Fibra 50MB Lowi,30.0 €,C
+259,6,Fibra 50MB Lowi + 2GB,37.0 €,C
+260,6,Fibra 50MB Lowi + 3GB,39.0 €,C
+264,6,Tarifa móvil 1GB ilimitado,16.0 €,A
+265,6,Tarifa móvil 2GB ilimitado,17.0 €,B
+266,6,Tarifa móvil 3GB ilimitado,19.0 €,B
+267,6,Tarifa móvil 4GB ilimitado,20.0 €,C
+268,6,Tarifa móvil 5GB ilimitado,22.0 €,C
+269,6,12GB ilimitado,25.0 €,C
+301,6,Fibra 50Mb + 6GB,41.0 €,A
+302,6,Fibra 50Mb+ 12GB,42.0 €,B
+303,6,Fibra 50Mb+ 20Gb,45.0 €,B
+323,6,6GB ilimitado,22.0 €,C
+324,6,20GB ilimitado,22.0 €,C
+428,6,3GB ilimitado,16.0 €,C
+430,6,Fibra 100Mb+ 12GB,42.0 €,A
+431,6,Fibra 100Mb+ 23Gb,45.0 €,B
+432,6,23GB ilimitado,20.0 €,B
+433,6,12 GB ilimitadas,18.0 €,C
+434,6,Fibra 100MB Lowi + 3GB,39.0 €,C
+5459,6,3GB 150min,12.0 €,C
+5460,6,3GB 0cent/min,7.0 €,A
+5543,6,Fibra 100Mb + 20Gb,35.0 €,B
+174,7,"Tarifa 6,95€/Mes",7.0 €,B
+175,7,"Tarifa 19,95€/Mes",20.0 €,C
+176,7,"Tarifa 24,95€/Mes",25.0 €,C
+246,7,Fibra + movil ilim/4gb,41.0 €,C
+247,7,Fibra + movil ilim/25gb,41.0 €,A
+346,7,"Tarifa 14,95€ / Mes",15.0 €,B
+5346,7,"Adsl + Tarifa 19,95€",47.9 €,B
+5383,7,"Adsl + tarifa 24,95€",52.9 €,C
+5468,7,"Tarifa 6,95€ / Mes",7.0 €,C
+5469,7,"Tarifa 19,95€ / Mes",20.0 €,C
+5470,7,"Tarifa 24,95€ / Mes",25.0 €,A
+183,8,Oferta PYME,1.0 €,B
+184,8,PYME SOLO MOVIL,1.0 €,B
+248,9,Tarifa 2GB,9.0 €,C
+281,9,Tarifa 2GB semestral,40.0 €,C
+256,10,Vodafone Tv Bares,150.0 €,C
+272,11,Sat4G Ilimitado 50,57.9 €,A
+5465,11,Sat ilimitado 50 Megas,69.9 €,B
+5466,11,Sat ilimitado 30 Megas,49.9 €,B
+5467,11,Sat 20 GB,27.9 €,C
+5494,11,4G QUANTIS 40GB,25.0 €,C
+5495,11,4G QUANTIS 80GB,25.0 €,C
+5544,11,Voz Sin Limites,9.9 €,A
+5545,11,Sin Limites 3GB,14.9 €,B
+5546,11,Sin Limites 5GB,15.9 €,B
+5547,11,Sin Limites 15GB,19.9 €,C
+5548,11,Sin Limites 20GB,21.9 €,C
+275,12,LOL,6.0 €,C
+276,12,OMG,14.0 €,A
+277,12,WTF,21.0 €,B
+282,12,FAV,7.0 €,B
+284,13,Cero/150 Min - Porta,4.0 €,C
+285,13,Mini Cero - Porta,4.0 €,C
+286,13,Mini 150 - Porta,7.9 €,C
+287,13,Mini Ilimitada - Porta,11.9 €,A
+288,13,Pequeña cero - Porta,8.0 €,B
+289,13,Pequeña 150 - Porta,11.9 €,B
+290,13,Pequeña ilimitada - Porta,15.9 €,C
+291,13,Cero ilimitada - Porta,8.0 €,C
+294,13,Unica Cero - Porta,16.0 €,C
+295,13,Unica 150 - Porta,19.9 €,A
+296,13,Unica Ilimitada - Porta,22.9 €,B
+305,13,Cero/150 Min - Alta,4.0 €,B
+306,13,Unica 150 - Alta,19.9 €,C
+307,13,Unica Cero - Alta,16.0 €,C
+308,13,Pequeña cero - Alta,8.0 €,C
+309,13,Unica Ilimitada - Alta,22.9 €,A
+310,13,Pequeña 150 - Alta,11.9 €,B
+311,13,Mini Ilimitada - Alta,11.9 €,B
+312,13,Pequeña ilimitada - Alta,15.9 €,C
+313,13,Mini Cero - Alta,4.0 €,C
+314,13,Mini 150 - Alta,7.9 €,C
+315,13,Cero ilimitada - Alta,8.0 €,A
+347,13,Mediana Ilimitada - Alta,15.0 €,B
+348,13,Mediana Ilimitada - Porta,15.0 €,B
+351,13,Cero 2x Ilimitada - Alta,7.0 €,C
+355,13,Mini - Alta,7.0 €,C
+356,13,Mini - Porta,7.0 €,C
+357,13,BGS Mini Voz- Alta,5.0 €,A
+358,13,BGS Mini Voz - Porta,5.0 €,B
+359,13,Mini Extra - Alta,5.0 €,B
+360,13,Mini Extra - Porta,5.0 €,C
+361,13,Pequeña - Alta,10.0 €,C
+363,13,Pequeña - Porta,10.0 €,C
+366,13,Pequeña Extra - Alta,9.0 €,A
+367,13,Pequeña Extra - Porta,9.0 €,B
+370,13,Unica 2x Ilimitada - Alta,20.0 €,B
+371,13,Unica 2x Ilimitada - Porta,20.0 €,C
+372,13,Unica Extra - Alta,20.0 €,C
+373,13,Unica Extra - Porta,20.0 €,C
+374,13,BGS Mini Ilimitada - Alta,7.0 €,A
+375,13,BGS Mini Ilimitada - Porta,7.0 €,B
+376,13,BGS Pequeña Voz - Alta,9.0 €,B
+377,13,BGS Pequeña Voz - Porta,9.0 €,C
+378,13,BGS Pequeña Ilimitada - Alta,10.0 €,C
+379,13,BGS Pequeña Ilimitada - Porta,10.0 €,C
+380,13,BGS Mediana Voz - Alta,13.0 €,A
+381,13,BGS Mediana Voz - Porta,13.0 €,B
+382,13,BGS Mediana Ilimitada - Alta,15.0 €,B
+383,13,BGS Mediana Ilimitada - Porta,15.0 €,C
+384,13,BGS Unica Ilimitada - Alta,20.0 €,C
+385,13,BGS Unica Ilimitada - Porta,20.0 €,C
+421,13,Mediana Ilimitada,15.0 €,A
+422,13,Mini +,6.0 €,B
+423,13,Mini Ilimitada,7.0 €,B
+424,13,Mini Voz,5.0 €,C
+425,13,Pequeña Ilimitada,10.0 €,C
+426,13,Pequeña +,10.0 €,C
+427,13,Unica Ilimitada,20.0 €,A
+5533,13,Tarifa Pequeña Empleados Selectra,10.0 €,B
+5534,13,Tarifa Mediana Empleados Selectra,15.0 €,B
+5535,13,Tarifa Única Empleados Selectra,20.0 €,C
+325,14,30 GB ILIMITADO,26.0 €,C
+326,14,16 GB ILIMITADO,22.0 €,C
+327,14,10 GB ILIMITADO,18.0 €,A
+328,14,6 GB ILIMITADO,16.0 €,B
+329,14,2 GB ILIMITADO,14.0 €,B
+330,14,ADSL 20Mb + Movil Ilim/2GB,50.0 €,C
+331,14,300Mb + Movil Ilim/6GB,55.0 €,C
+332,14,300Mb + Movil Ilim/16GB,61.0 €,C
+333,14,ADSL 20Mb + Movil Ilim/6GB,55.0 €,A
+334,14,ADSL 20Mb + Movil Ilim/16GB,61.0 €,B
+335,14,300Mb + Movil Ilim/2GB,50.0 €,B
+337,14,ADSL 20MB CON FIJO,39.2 €,C
+338,14,ADSL 20MB SIN FIJO,35.1 €,C
+339,14,FIBRA 300MB SIN FIJO,43.5 €,C
+340,14,FIBRA 300MB CON FIJO,43.5 €,A
+336,15,TviSo,100.0 €,B
+5156,16,Fibra 100 Mb,32.0 €,B
+5157,16,Fibra 100 Mb + Sinfin 3GB,47.0 €,C
+5473,16,ADSL,32.0 €,C
+5474,16,La Fibra 600Mb NEBA,47.0 €,C
+5475,16,La ciento 2G,11.2 €,A
+5476,16,La ciento 5G,15.2 €,B
+5477,16,La Sinfin 15 GB,25.0 €,B
+5478,16,La Sinfin 40 GB,32.0 €,C
+5479,16, La Fibra 1Gbps,57.0 €,C
+5480,16,Fibra 100 Mb + Sinfin 8GB,54.0 €,C
+5481,16,Fibra 600 Mb + Sinfin 3GB,57.0 €,A
+5482,16,Fibra 100 Mb + Sinfin 30GB,59.0 €,B
+5483,16,Fibra 600 Mb + Sinfin 8GB,64.0 €,B
+5484,16,Fibra 600 Mb + Sinfin 30GB,69.0 €,C
+5485,16,Fibra 600 Mb + Gigas Infinitos,69.0 €,C
+5486,16,Copia de Fibra 100 Mb + Sinfin 30Mb,59.0 €,C
+5487,16,Fibra 1GB + Sinfin 3GB,67.0 €,A
+5488,16,Fibra 1GB + Sinfin 8GB ,74.0 €,B
+5489,16,Fibra 1GB + Sinfin 30GB ,79.0 €,B
+5490,16,Fibra 1GB + Sinfin GB Infinitos,99.0 €,C
+5491,16,ADSL + Sinfin 30GB,59.0 €,C
+5492,16,ADSL + Sinfin 3GB,47.0 €,C
+5493,16,ADSL + Sinfin 8GB,54.0 €,A
+5496,16,ADSL Yoigo,37.0 €,B
+5498,16,La Sin fin 8gb,21.6 €,B
+5499,16,Fibra 100 Mb + Infinitos,69.0 €,C
+5505,16,ADSL + Gigas Infinitos,54.0 €,C
+5528,16,La Sin fin 30gb,25.6 €,C
+5532,16,La Fibra 1GB,57.0 €,A
+5553,16,2GB,11.2 €,B
+5628,16,La Sinfin 3 GB,14.0 €,B
+5629,16,La Sinfin 100 MB,12.0 €,C
+5631,16,La Fibra 600Mb ,47.0 €,C
+5471,17,DAZN - Desuso,5.0 €,C
+5472,17,DAZN,10.0 €,A
+5506,17,Dazn1,10.0 €,B
+5536,18,NET 120/12Mbps,20.0 €,B
+5537,18,NET250/15Mbps,20.0 €,C
+5538,18,Movel 250MB/500MS,5.0 €,C
+5539,18,Movel 1GB/1000MS ,9.0 €,C
+5540,18,NET 120/12Mbps + TV90 Base,5.0 €,A
+5541,18,Copia de Copia de Copia de Movel 250MB/500MS,5.0 €,B
+5542,18,Movel 3GB/3000MS ,13.0 €,B
+5549,19,Osoa Family Promo 6 Meses 200MB,19.9 €,C
+5550,19,Osoa 2 líneas móviles promo 24 Meses 100MB,55.0 €,C
+5551,19,Osoa 2 líneas móviles promo 24 Meses 500MB,62.0 €,C
+5552,19,Osoa Promo 6 Meses 200MB,14.9 €,A
+5554,19,Duo 200 MB Promo 6 Meses ,14.9 €,B
+5555,19,Duo 500 MB Promo 6 Meses ,19.9 €,B
+5556,19,Aurrera 200M  Promo 6 Meses,14.9 €,C
+5557,19,Aurrera 500M  Promo 6 Meses,19.9 €,C
+5558,19,Aurrera Take Away 200M  Promo 6 Meses,14.9 €,C
+5559,19,Aurrera Take Away 500M  Promo 6 Meses,19.9 €,A
+5560,19,Osoa Take Away 200M  Promo 6 Meses,14.9 €,B
+5561,19,Osoa Take Away 500M  Promo 6 Meses,19.9 €,B
+5562,19,Osoa Family 200M Promo 12 Meses ,44.9 €,C
+5563,19,Osoa Family 500M Promo 12 Meses ,49.9 €,C
+5564,19,Aurrera 200M  Promo 12 Meses,39.9 €,C
+5565,19,Aurrera 500M  Promo 12 Meses,44.9 €,A
+5566,19,Duo 200 MB Promo 12 Meses ,39.9 €,B
+5567,19,Duo 500 MB Promo 12 Meses ,44.9 €,B
+5568,19,Aurrera Take Away 200M  Promo 12 Meses,39.9 €,C
+5569,19,Aurrera Take Away 500M  Promo 12 Meses,44.9 €,C
+5570,19,Osoa Take Away 200M  Promo 12 Meses,39.9 €,C
+5571,19,Osoa Take Away 500M  Promo 12 Meses,44.9 €,A
+5572,19,FAMILY Antivodafone Promo 12 Meses,39.9 €,B
+5573,19,Antivodafone 3 productos  Promo 12 Meses,39.9 €,B
+5574,19,Antivodafone 2 productos  Promo 12 Meses,39.9 €,C
+5575,19,Antivodafone 4 productos  Promo 24 Meses,44.9 €,C
+5601,19,Osoa Family Promo 6 Meses 500MB,24.9 €,C
+5602,19,Osoa Promo 6 Meses 500MB,19.9 €,A
+5626,19,Osoa Promo 12 Meses 200MB,39.9 €,B
+5627,19,Osoa Promo 12 Meses 500MB,44.9 €,B
+5576,20,Take Away 2 productos,29.9 €,C
+5577,20, Take Away + 3 productos,34.9 €,C
+5578,20,Family 4 productos,34.9 €,C
+5579,20,Family + 4 productos ANTIVODAFONE,44.9 €,A
+5580,21,borrar 3,19.9 €,B
+5581,21,borrar 1,39.9 €,B
+5582,21,borrar 2,24.9 €,C
+5583,21,Combo 200 MB Promo 6 Meses,14.9 €,C
+5584,21, Combo 200 MB Promo 12 Meses,39.9 €,C
+5585,21,Combo 500 MB Promo 12 Meses,44.9 €,A
+5586,21,Combo 500 MB Promo 6 Meses,19.9 €,B
+5587,21,200 megas + plana 30GB Promo a 6 Meses,14.9 €,B
+5588,21,500 megas + plana 30GB Promo a 6 Meses,19.9 €,C
+5589,21,500 megas + plana 30GB Promo a 12 Meses,44.9 €,C
+5590,21,200 megas + plana 30GB Promo a 12 Meses,39.9 €,C
+5591,21,Llévalo todo Promo a 6 Meses 500MB + 30GB,24.9 €,A
+5592,21,combo sen 200 MB ocio + plana 50GB Promo a 6 Meses,14.9 €,B
+5593,21,combo sen 500 MB ocio + plana 50GB Promo a 6 Meses,19.9 €,B
+5594,21,combo sen 200 MB ocio + plana 50GB Promo a 12 Meses,44.9 €,C
+5595,21,combo sen 500 MB ocio + plana 50GB Promo a 12 Meses,49.9 €,C
+5596,21,combo 200 MB + Ilim 6GB promo a 12 Meses,39.9 €,C
+5597,21,combo 500 MB + 200 min 5GB promo a 12 Meses,44.9 €,A
+5598,21,combo 200MB ocio + 2 x plana 10GB,60.0 €,B
+5599,21,Combo 500MB ocio + 2 x plana 10GB Promo a 24 Meses,59.9 €,B
+5600,21,Internet R 100 Megas promo a 12 Meses,29.0 €,C
+5603,21,Llévalo todo Promo a 6 Meses 200MB + 30GB,19.9 €,C
+5604,21,Combo 500 MB + 200 min 5GB promo a 6 Meses,19.9 €,C
+5605,21,Combo 200MB + Ilim 6GB promo a 6 Meses,14.9 €,A
+5606,21, Llévalo todo Promo a 6 Meses 200MB + 15GB,14.9 €,B
+5607,21,Llévalo todo Promo a 6 Meses 500MB + 10GB,19.9 €,B
+5608,21,Llévalo todo Promo a 12 Meses 200MB + 20GB,44.9 €,C
+5609,21,Llévalo todo Promo a 12 Meses 500MB + 30GB,44.9 €,C
+5610,21,Llévalo todo Promo a 12 Meses 200MB + 15GB,39.9 €,C
+5611,21,Llévalo todo Promo a 12 Meses 500MB + 15GB,44.9 €,A
+5612,21,Combo 200MB ocio + 2 X plana 10GB Promo a 24 Meses,54.9 €,B
+5613,22,30GB ilimitadas erronea,19.9 €,B
+5614,22,20GB ilimitadas,14.9 €,C
+5615,22,10GB ilimitadas,10.9 €,C
+5616,22,7GB ilimitadas,9.9 €,C
+5617,22,5GB + 300 min,7.9 €,A
+5618,22,Llamadas ilimitadas,6.9 €,B
+5619,22,VOZ 100 minutos,3.9 €,B
+5620,22,100 MB Finetwork (Antiguo),20.9 €,C
+5621,22,300MB Finetwork,24.9 €,C
+5622,22,600MB Finetwork,29.9 €,C
+5623,22,30GB ilimitadas,19.9 €,A
+5624,22,100 MB Finetwork,20.9 €,B
